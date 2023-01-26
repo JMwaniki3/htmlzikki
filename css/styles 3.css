@@ -1,0 +1,23 @@
+ul{
+  list-style-type: none;
+}
+li{
+  float: left;
+  padding: 60px;
+  color: black;
+}
+div{
+  margin: 10px;
+  padding: 10px;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevOLJvLrsnLTRoZ2vDC951Vb6WKnGLV-Zpw&usqp=CAU");
+}
+a{
+  font-size: xx-large;
+  color: cornsilk;
+}
+h3{
+  color: floralwhite;
+  font-size: x-large;
+}
